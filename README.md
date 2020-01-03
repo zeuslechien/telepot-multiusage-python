@@ -1,12 +1,19 @@
 # telepot-multiusage-python
 How i use telepot. To inspire some people to use the same code as me.
+
 Also this program works for a USB camera, i haven't tried with the pi camera
 
 Before beeing able to have the same code as me you must install all the prerequisites
 
+sudo apt-get update
+
+sudo apt-get upgrade
+
+
 telepot:
 
 sudo apt-get install telepot
+
 
 requests:
 for beeing able to make ip requests to your tamosta
@@ -14,10 +21,12 @@ for beeing able to make ip requests to your tamosta
 sudo apt-get install python-requests
 
 
-For making photo you willneed the fswebcam package:
+
+For making photo you will need the fswebcam package:
 
 
 sudo apt-get install fswebcam
+
 
 
 
